@@ -1,0 +1,16 @@
+{
+  "name": "nock-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "nock": "^13.0.11",
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
